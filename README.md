@@ -1,5 +1,6 @@
 # 有道文本翻译API测试
 
+## 测试方法
 ```python
 # main.py中修改这两行
 APP_KEY = '你的APP_KEY'
