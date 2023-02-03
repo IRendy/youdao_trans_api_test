@@ -4,7 +4,7 @@
 ```python
 # main.py中修改这两行
 APP_KEY = '你的APP_KEY'
-APP_SECRET = '你的APP_SECRET
+APP_SECRET = '你的APP_SECRET'
 ```
 
 双击`launcher.bat`即可运行。
